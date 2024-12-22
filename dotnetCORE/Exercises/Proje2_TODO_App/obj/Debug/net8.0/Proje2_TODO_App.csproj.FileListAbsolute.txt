@@ -1,0 +1,15 @@
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Exercises\Proje2_TODO_App\obj\Debug\net8.0\Proje2_TODO_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Exercises\Proje2_TODO_App\obj\Debug\net8.0\Proje2_TODO_App.AssemblyInfoInputs.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Exercises\Proje2_TODO_App\obj\Debug\net8.0\Proje2_TODO_App.AssemblyInfo.cs
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Exercises\Proje2_TODO_App\obj\Debug\net8.0\Proje2_TODO_App.csproj.CoreCompileInputs.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Exercises\Proje2_TODO_App\obj\Debug\net8.0\Proje2_TODO_App.sourcelink.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Exercises\Proje2_TODO_App\bin\Debug\net8.0\Proje2_TODO_App.exe
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Exercises\Proje2_TODO_App\bin\Debug\net8.0\Proje2_TODO_App.deps.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Exercises\Proje2_TODO_App\bin\Debug\net8.0\Proje2_TODO_App.runtimeconfig.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Exercises\Proje2_TODO_App\bin\Debug\net8.0\Proje2_TODO_App.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Exercises\Proje2_TODO_App\bin\Debug\net8.0\Proje2_TODO_App.pdb
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Exercises\Proje2_TODO_App\obj\Debug\net8.0\Proje2_TODO_App.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Exercises\Proje2_TODO_App\obj\Debug\net8.0\refint\Proje2_TODO_App.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Exercises\Proje2_TODO_App\obj\Debug\net8.0\Proje2_TODO_App.pdb
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Exercises\Proje2_TODO_App\obj\Debug\net8.0\Proje2_TODO_App.genruntimeconfig.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Exercises\Proje2_TODO_App\obj\Debug\net8.0\ref\Proje2_TODO_App.dll
