@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "soyut_sinif/1.0.0": {
+        "runtime": {
+          "soyut_sinif.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "soyut_sinif/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

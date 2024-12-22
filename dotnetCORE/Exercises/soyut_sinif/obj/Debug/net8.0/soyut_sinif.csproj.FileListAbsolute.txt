@@ -1,0 +1,15 @@
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\soyut_sinif\bin\Debug\net8.0\soyut_sinif.exe
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\soyut_sinif\bin\Debug\net8.0\soyut_sinif.deps.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\soyut_sinif\bin\Debug\net8.0\soyut_sinif.runtimeconfig.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\soyut_sinif\bin\Debug\net8.0\soyut_sinif.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\soyut_sinif\bin\Debug\net8.0\soyut_sinif.pdb
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\soyut_sinif\obj\Debug\net8.0\soyut_sinif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\soyut_sinif\obj\Debug\net8.0\soyut_sinif.AssemblyInfoInputs.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\soyut_sinif\obj\Debug\net8.0\soyut_sinif.AssemblyInfo.cs
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\soyut_sinif\obj\Debug\net8.0\soyut_sinif.csproj.CoreCompileInputs.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\soyut_sinif\obj\Debug\net8.0\soyut_sinif.sourcelink.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\soyut_sinif\obj\Debug\net8.0\soyut_sinif.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\soyut_sinif\obj\Debug\net8.0\refint\soyut_sinif.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\soyut_sinif\obj\Debug\net8.0\soyut_sinif.pdb
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\soyut_sinif\obj\Debug\net8.0\soyut_sinif.genruntimeconfig.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\soyut_sinif\obj\Debug\net8.0\ref\soyut_sinif.dll
