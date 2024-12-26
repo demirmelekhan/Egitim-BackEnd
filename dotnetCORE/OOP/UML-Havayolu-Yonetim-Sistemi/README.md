@@ -92,3 +92,11 @@ Sistemin sınıf diyagramı aşağıda verilmiştir:
 
 Proje, yazılım mühendisliği tasarımı olarak hazırlanmıştır. Diyagram ve açıklamalar referans alınarak sistem daha fazla detaylandırılabilir ve uygulamaya dönüştürülebilir.
 
+## Lisans
+
+Bu proje tamamen [Melek Demirhan] tarafından geliştirilmiştir. Tüm hakları saklıdır. Projenin izinsiz bir şekilde kopyalanması, dağıtılması veya kullanılması yasaktır.
+
+### Telif Hakkı (Copyright)
+
+© [2024] [Melek Demirhan]. Tüm hakları saklıdır.
+
