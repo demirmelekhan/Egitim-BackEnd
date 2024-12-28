@@ -1,0 +1,15 @@
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\fibonacci_ort_hesaplama\bin\Debug\net8.0\fibonacci_ort_hesaplama.exe
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\fibonacci_ort_hesaplama\bin\Debug\net8.0\fibonacci_ort_hesaplama.deps.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\fibonacci_ort_hesaplama\bin\Debug\net8.0\fibonacci_ort_hesaplama.runtimeconfig.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\fibonacci_ort_hesaplama\bin\Debug\net8.0\fibonacci_ort_hesaplama.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\fibonacci_ort_hesaplama\bin\Debug\net8.0\fibonacci_ort_hesaplama.pdb
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\fibonacci_ort_hesaplama\obj\Debug\net8.0\fibonacci_ort_hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\fibonacci_ort_hesaplama\obj\Debug\net8.0\fibonacci_ort_hesaplama.AssemblyInfoInputs.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\fibonacci_ort_hesaplama\obj\Debug\net8.0\fibonacci_ort_hesaplama.AssemblyInfo.cs
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\fibonacci_ort_hesaplama\obj\Debug\net8.0\fibonacci_ort_hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\fibonacci_ort_hesaplama\obj\Debug\net8.0\fibonacci_ort_hesaplama.sourcelink.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\fibonacci_ort_hesaplama\obj\Debug\net8.0\fibonacci_ort_hesaplama.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\fibonacci_ort_hesaplama\obj\Debug\net8.0\refint\fibonacci_ort_hesaplama.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\fibonacci_ort_hesaplama\obj\Debug\net8.0\fibonacci_ort_hesaplama.pdb
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\fibonacci_ort_hesaplama\obj\Debug\net8.0\fibonacci_ort_hesaplama.genruntimeconfig.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\fibonacci_ort_hesaplama\obj\Debug\net8.0\ref\fibonacci_ort_hesaplama.dll

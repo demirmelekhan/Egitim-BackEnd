@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "fibonacci_ort_hesaplama/1.0.0": {
+        "runtime": {
+          "fibonacci_ort_hesaplama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fibonacci_ort_hesaplama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
