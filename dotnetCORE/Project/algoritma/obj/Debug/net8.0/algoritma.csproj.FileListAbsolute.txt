@@ -1,0 +1,15 @@
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\algoritma\bin\Debug\net8.0\algoritma.exe
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\algoritma\bin\Debug\net8.0\algoritma.deps.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\algoritma\bin\Debug\net8.0\algoritma.runtimeconfig.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\algoritma\bin\Debug\net8.0\algoritma.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\algoritma\bin\Debug\net8.0\algoritma.pdb
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\algoritma\obj\Debug\net8.0\algoritma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\algoritma\obj\Debug\net8.0\algoritma.AssemblyInfoInputs.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\algoritma\obj\Debug\net8.0\algoritma.AssemblyInfo.cs
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\algoritma\obj\Debug\net8.0\algoritma.csproj.CoreCompileInputs.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\algoritma\obj\Debug\net8.0\algoritma.sourcelink.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\algoritma\obj\Debug\net8.0\algoritma.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\algoritma\obj\Debug\net8.0\refint\algoritma.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\algoritma\obj\Debug\net8.0\algoritma.pdb
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\algoritma\obj\Debug\net8.0\algoritma.genruntimeconfig.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\algoritma\obj\Debug\net8.0\ref\algoritma.dll
