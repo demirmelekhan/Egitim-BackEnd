@@ -1,0 +1,15 @@
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\input_reverse\bin\Debug\net8.0\input_reverse.exe
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\input_reverse\bin\Debug\net8.0\input_reverse.deps.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\input_reverse\bin\Debug\net8.0\input_reverse.runtimeconfig.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\input_reverse\bin\Debug\net8.0\input_reverse.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\input_reverse\bin\Debug\net8.0\input_reverse.pdb
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\input_reverse\obj\Debug\net8.0\input_reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\input_reverse\obj\Debug\net8.0\input_reverse.AssemblyInfoInputs.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\input_reverse\obj\Debug\net8.0\input_reverse.AssemblyInfo.cs
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\input_reverse\obj\Debug\net8.0\input_reverse.csproj.CoreCompileInputs.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\input_reverse\obj\Debug\net8.0\input_reverse.sourcelink.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\input_reverse\obj\Debug\net8.0\input_reverse.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\input_reverse\obj\Debug\net8.0\refint\input_reverse.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\input_reverse\obj\Debug\net8.0\input_reverse.pdb
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\input_reverse\obj\Debug\net8.0\input_reverse.genruntimeconfig.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\input_reverse\obj\Debug\net8.0\ref\input_reverse.dll
