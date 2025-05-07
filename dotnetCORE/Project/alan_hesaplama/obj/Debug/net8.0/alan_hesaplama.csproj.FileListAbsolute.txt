@@ -1,0 +1,15 @@
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\alan_hesaplama\bin\Debug\net8.0\alan_hesaplama.exe
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\alan_hesaplama\bin\Debug\net8.0\alan_hesaplama.deps.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\alan_hesaplama\bin\Debug\net8.0\alan_hesaplama.runtimeconfig.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\alan_hesaplama\bin\Debug\net8.0\alan_hesaplama.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\alan_hesaplama\bin\Debug\net8.0\alan_hesaplama.pdb
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\alan_hesaplama\obj\Debug\net8.0\alan_hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\alan_hesaplama\obj\Debug\net8.0\alan_hesaplama.AssemblyInfoInputs.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\alan_hesaplama\obj\Debug\net8.0\alan_hesaplama.AssemblyInfo.cs
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\alan_hesaplama\obj\Debug\net8.0\alan_hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\alan_hesaplama\obj\Debug\net8.0\alan_hesaplama.sourcelink.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\alan_hesaplama\obj\Debug\net8.0\alan_hesaplama.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\alan_hesaplama\obj\Debug\net8.0\refint\alan_hesaplama.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\alan_hesaplama\obj\Debug\net8.0\alan_hesaplama.pdb
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\alan_hesaplama\obj\Debug\net8.0\alan_hesaplama.genruntimeconfig.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\alan_hesaplama\obj\Debug\net8.0\ref\alan_hesaplama.dll
