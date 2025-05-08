@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ikililer_toplam_kare/1.0.0": {
+        "runtime": {
+          "ikililer_toplam_kare.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ikililer_toplam_kare/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

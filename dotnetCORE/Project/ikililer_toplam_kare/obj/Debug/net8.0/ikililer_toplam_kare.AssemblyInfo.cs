@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("arayuz")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ikililer_toplam_kare")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d096ffb909e41f7452ad307240c4d711072c659c")]
-[assembly: System.Reflection.AssemblyProductAttribute("arayuz")]
-[assembly: System.Reflection.AssemblyTitleAttribute("arayuz")]
+[assembly: System.Reflection.AssemblyProductAttribute("ikililer_toplam_kare")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ikililer_toplam_kare")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

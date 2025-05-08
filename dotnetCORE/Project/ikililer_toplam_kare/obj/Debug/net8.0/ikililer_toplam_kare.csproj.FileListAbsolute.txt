@@ -1,0 +1,15 @@
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\ikililer_toplam_kare\bin\Debug\net8.0\ikililer_toplam_kare.exe
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\ikililer_toplam_kare\bin\Debug\net8.0\ikililer_toplam_kare.deps.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\ikililer_toplam_kare\bin\Debug\net8.0\ikililer_toplam_kare.runtimeconfig.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\ikililer_toplam_kare\bin\Debug\net8.0\ikililer_toplam_kare.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\ikililer_toplam_kare\bin\Debug\net8.0\ikililer_toplam_kare.pdb
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\ikililer_toplam_kare\obj\Debug\net8.0\ikililer_toplam_kare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\ikililer_toplam_kare\obj\Debug\net8.0\ikililer_toplam_kare.AssemblyInfoInputs.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\ikililer_toplam_kare\obj\Debug\net8.0\ikililer_toplam_kare.AssemblyInfo.cs
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\ikililer_toplam_kare\obj\Debug\net8.0\ikililer_toplam_kare.csproj.CoreCompileInputs.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\ikililer_toplam_kare\obj\Debug\net8.0\ikililer_toplam_kare.sourcelink.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\ikililer_toplam_kare\obj\Debug\net8.0\ikililer_toplam_kare.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\ikililer_toplam_kare\obj\Debug\net8.0\refint\ikililer_toplam_kare.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\ikililer_toplam_kare\obj\Debug\net8.0\ikililer_toplam_kare.pdb
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\ikililer_toplam_kare\obj\Debug\net8.0\ikililer_toplam_kare.genruntimeconfig.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\ikililer_toplam_kare\obj\Debug\net8.0\ref\ikililer_toplam_kare.dll
