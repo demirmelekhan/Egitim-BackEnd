@@ -1,0 +1,15 @@
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\toplam_mutlak_kare\bin\Debug\net8.0\toplam_mutlak_kare.exe
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\toplam_mutlak_kare\bin\Debug\net8.0\toplam_mutlak_kare.deps.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\toplam_mutlak_kare\bin\Debug\net8.0\toplam_mutlak_kare.runtimeconfig.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\toplam_mutlak_kare\bin\Debug\net8.0\toplam_mutlak_kare.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\toplam_mutlak_kare\bin\Debug\net8.0\toplam_mutlak_kare.pdb
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\toplam_mutlak_kare\obj\Debug\net8.0\toplam_mutlak_kare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\toplam_mutlak_kare\obj\Debug\net8.0\toplam_mutlak_kare.AssemblyInfoInputs.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\toplam_mutlak_kare\obj\Debug\net8.0\toplam_mutlak_kare.AssemblyInfo.cs
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\toplam_mutlak_kare\obj\Debug\net8.0\toplam_mutlak_kare.csproj.CoreCompileInputs.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\toplam_mutlak_kare\obj\Debug\net8.0\toplam_mutlak_kare.sourcelink.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\toplam_mutlak_kare\obj\Debug\net8.0\toplam_mutlak_kare.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\toplam_mutlak_kare\obj\Debug\net8.0\refint\toplam_mutlak_kare.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\toplam_mutlak_kare\obj\Debug\net8.0\toplam_mutlak_kare.pdb
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\toplam_mutlak_kare\obj\Debug\net8.0\toplam_mutlak_kare.genruntimeconfig.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\toplam_mutlak_kare\obj\Debug\net8.0\ref\toplam_mutlak_kare.dll
