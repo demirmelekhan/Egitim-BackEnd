@@ -1,0 +1,15 @@
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\sessiz_harf\bin\Debug\net8.0\sessiz_harf.exe
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\sessiz_harf\bin\Debug\net8.0\sessiz_harf.deps.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\sessiz_harf\bin\Debug\net8.0\sessiz_harf.runtimeconfig.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\sessiz_harf\bin\Debug\net8.0\sessiz_harf.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\sessiz_harf\bin\Debug\net8.0\sessiz_harf.pdb
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\sessiz_harf\obj\Debug\net8.0\sessiz_harf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\sessiz_harf\obj\Debug\net8.0\sessiz_harf.AssemblyInfoInputs.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\sessiz_harf\obj\Debug\net8.0\sessiz_harf.AssemblyInfo.cs
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\sessiz_harf\obj\Debug\net8.0\sessiz_harf.csproj.CoreCompileInputs.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\sessiz_harf\obj\Debug\net8.0\sessiz_harf.sourcelink.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\sessiz_harf\obj\Debug\net8.0\sessiz_harf.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\sessiz_harf\obj\Debug\net8.0\refint\sessiz_harf.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\sessiz_harf\obj\Debug\net8.0\sessiz_harf.pdb
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\sessiz_harf\obj\Debug\net8.0\sessiz_harf.genruntimeconfig.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\sessiz_harf\obj\Debug\net8.0\ref\sessiz_harf.dll
