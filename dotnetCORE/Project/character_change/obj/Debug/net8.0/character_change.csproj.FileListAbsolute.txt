@@ -1,0 +1,15 @@
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\character_change\bin\Debug\net8.0\character_change.exe
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\character_change\bin\Debug\net8.0\character_change.deps.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\character_change\bin\Debug\net8.0\character_change.runtimeconfig.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\character_change\bin\Debug\net8.0\character_change.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\character_change\bin\Debug\net8.0\character_change.pdb
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\character_change\obj\Debug\net8.0\character_change.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\character_change\obj\Debug\net8.0\character_change.AssemblyInfoInputs.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\character_change\obj\Debug\net8.0\character_change.AssemblyInfo.cs
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\character_change\obj\Debug\net8.0\character_change.csproj.CoreCompileInputs.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\character_change\obj\Debug\net8.0\character_change.sourcelink.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\character_change\obj\Debug\net8.0\character_change.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\character_change\obj\Debug\net8.0\refint\character_change.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\character_change\obj\Debug\net8.0\character_change.pdb
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\character_change\obj\Debug\net8.0\character_change.genruntimeconfig.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\character_change\obj\Debug\net8.0\ref\character_change.dll

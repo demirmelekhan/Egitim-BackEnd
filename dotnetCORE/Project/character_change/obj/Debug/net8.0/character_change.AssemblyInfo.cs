@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("arayuz")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("character_change")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d22fa74465fd6c9e6d2ee2bbe671f5a9dc53dcf5")]
-[assembly: System.Reflection.AssemblyProductAttribute("arayuz")]
-[assembly: System.Reflection.AssemblyTitleAttribute("arayuz")]
+[assembly: System.Reflection.AssemblyProductAttribute("character_change")]
+[assembly: System.Reflection.AssemblyTitleAttribute("character_change")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
