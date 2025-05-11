@@ -1,0 +1,15 @@
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\vote_app\bin\Debug\net8.0\vote_app.exe
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\vote_app\bin\Debug\net8.0\vote_app.deps.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\vote_app\bin\Debug\net8.0\vote_app.runtimeconfig.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\vote_app\bin\Debug\net8.0\vote_app.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\vote_app\bin\Debug\net8.0\vote_app.pdb
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\vote_app\obj\Debug\net8.0\vote_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\vote_app\obj\Debug\net8.0\vote_app.AssemblyInfoInputs.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\vote_app\obj\Debug\net8.0\vote_app.AssemblyInfo.cs
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\vote_app\obj\Debug\net8.0\vote_app.csproj.CoreCompileInputs.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\vote_app\obj\Debug\net8.0\vote_app.sourcelink.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\vote_app\obj\Debug\net8.0\vote_app.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\vote_app\obj\Debug\net8.0\refint\vote_app.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\vote_app\obj\Debug\net8.0\vote_app.pdb
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\vote_app\obj\Debug\net8.0\vote_app.genruntimeconfig.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\vote_app\obj\Debug\net8.0\ref\vote_app.dll

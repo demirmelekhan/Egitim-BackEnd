@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("arayuz")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("vote_app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab77a36b004746595337bcf63f934bdf373c02d8")]
-[assembly: System.Reflection.AssemblyProductAttribute("arayuz")]
-[assembly: System.Reflection.AssemblyTitleAttribute("arayuz")]
+[assembly: System.Reflection.AssemblyProductAttribute("vote_app")]
+[assembly: System.Reflection.AssemblyTitleAttribute("vote_app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
