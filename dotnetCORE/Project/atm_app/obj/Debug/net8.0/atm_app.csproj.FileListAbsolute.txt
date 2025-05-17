@@ -1,0 +1,15 @@
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\atm_app\bin\Debug\net8.0\atm_app.exe
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\atm_app\bin\Debug\net8.0\atm_app.deps.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\atm_app\bin\Debug\net8.0\atm_app.runtimeconfig.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\atm_app\bin\Debug\net8.0\atm_app.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\atm_app\bin\Debug\net8.0\atm_app.pdb
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\atm_app\obj\Debug\net8.0\atm_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\atm_app\obj\Debug\net8.0\atm_app.AssemblyInfoInputs.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\atm_app\obj\Debug\net8.0\atm_app.AssemblyInfo.cs
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\atm_app\obj\Debug\net8.0\atm_app.csproj.CoreCompileInputs.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\atm_app\obj\Debug\net8.0\atm_app.sourcelink.json
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\atm_app\obj\Debug\net8.0\atm_app.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\atm_app\obj\Debug\net8.0\refint\atm_app.dll
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\atm_app\obj\Debug\net8.0\atm_app.pdb
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\atm_app\obj\Debug\net8.0\atm_app.genruntimeconfig.cache
+C:\Users\demir\github\Egitim-BackEnd\dotnetCORE\Project\atm_app\obj\Debug\net8.0\ref\atm_app.dll
