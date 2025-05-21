@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "zGkLFMyTzpA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\demir\\github\\Egitim-BackEnd\\dotnetCORE\\Project\\barcode_app\\barcode_app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\demir\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.5\\microsoft.win32.systemevents.9.0.5.nupkg.sha512",
+    "C:\\Users\\demir\\.nuget\\packages\\sixlabors.imagesharp\\3.1.8\\sixlabors.imagesharp.3.1.8.nupkg.sha512",
+    "C:\\Users\\demir\\.nuget\\packages\\system.drawing.common\\9.0.5\\system.drawing.common.9.0.5.nupkg.sha512",
+    "C:\\Users\\demir\\.nuget\\packages\\zxing.net\\0.16.10\\zxing.net.0.16.10.nupkg.sha512",
+    "C:\\Users\\demir\\.nuget\\packages\\zxing.net.bindings.imagesharp\\0.16.15\\zxing.net.bindings.imagesharp.0.16.15.nupkg.sha512"
+  ],
+  "logs": []
+}
